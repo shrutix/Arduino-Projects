@@ -57,3 +57,5 @@ void loop() {
   digitalWrite(LED8, LOW);     // turn off LED3
   delay(100);                  // wait for 300ms before running program all over again
 }
+
+//made with tutorial
